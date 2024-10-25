@@ -42,7 +42,7 @@ Supply $WETH and borrow $HONEY
 Add liquidity to $HONEY/$WBERA pool and deposit LP tokens
 Delegate $BGT tokens to a validator
 
-Contributing
+# Contributing
 If you want to contribute to this project or report any issues, feel free to submit a pull request or open an issue in this repository. Make sure to follow the contribution guidelines.
 
 Bot Name & Contact Info
