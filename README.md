@@ -3,7 +3,7 @@ This bot automates daily tasks on the Berachain testnet, including claiming $BER
 
 # Features
 * Claim $BERA tokens
-*Swap $WETH, $HONEY, and $WBERA
+* Swap $WETH, $HONEY, and $WBERA
 * Borrow $HONEY
 * Add liquidity and stake LP tokens
 * Delegate to validators
