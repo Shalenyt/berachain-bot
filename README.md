@@ -17,7 +17,7 @@ Berachain testnet wallet address & private key
 # Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/berachain-bot.git
+git clone https://github.com/Shalenyt/berachain-bot.git
 cd berachain-bot
 
 # Install dependencies:
