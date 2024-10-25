@@ -15,14 +15,15 @@ This bot automates daily tasks on the Berachain testnet, including claiming $BER
 Berachain testnet wallet address & private key
 
 # Installation
-Clone the repository:
+* Clone the repository:
 
-git clone https://github.com/Shalenyt/berachain-bot.git
-cd berachain-bot
+* git clone https://github.com/Shalenyt/berachain-bot.git
+
+* cd berachain-bot
 
 # Install dependencies:
 
-npm install
+* npm install
 
 # Setting up .env
 * Create a .env file with the following content:
@@ -33,7 +34,7 @@ ADDRESS='your_wallet_address'
 # Running the Bot
 * Run the bot with:
 
-node main.js
+* node main.js
 
 # Automated Tasks
 * Claim $BERA from Bartio and Kodiak Faucets
