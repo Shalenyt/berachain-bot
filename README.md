@@ -49,5 +49,5 @@ If you want to contribute to this project or report any issues, feel free to sub
 # Bot Name & Contact Info
 
 * Bot Name: BERACHAIN BOT
-* Telegram: t.me/xShalen
-* Twitter: x.com/0xShalen
+* Telegram: https://t.me/xShalen
+* Twitter: https://x.com/0xShalen
